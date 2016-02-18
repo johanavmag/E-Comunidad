@@ -1,0 +1,199 @@
+nav ul{
+	list-style-type: none;
+	float: right;
+	white-space: nowrap;
+	padding: 30px;
+}
+nav li {
+	display: inline;
+	padding: 0px 20px 0px 20px;
+	border-right:1px solid #a6a6a6;
+	font-size: 17px;
+	color: #a6a6a6;
+	font-family: "OpenSans-Regular";
+}
+nav li:hover a {
+	background: transparent;
+}
+nav a {
+	text-decoration: none;
+	color:#a6a6a6;
+	text-shadow:2px 2px 4px #a6a6a6;
+}
+nav a:hover{
+	color: #fff;
+}
+.logo{
+	width:75px ;
+	height: 75px;
+	position: relative;
+	left: -150px;
+}
+.semilla{
+	padding: 150px;
+	background-image: url("../img/semilla.jpg");
+}
+.bg-gray p, .bg-white p, .txtserv, .blg p{
+	color: #8c8c8c; 
+	font-size: 15px;
+	font-family:  "OpenSans-Light";
+}
+.msvs img{
+	width:100px;
+	height:150px;
+	position: relative;
+	left: 170px;
+}
+h2{
+	font-family: "OpenSans-Regular";
+}
+.verde img{
+	width:500px;
+	height:355px;
+	margin-bottom: 0px;
+}
+.verde{
+	background-image: url("../img/fondo.jpg");
+}
+.metodo img{
+	width:50px;
+	height:50px;
+	position: relative;
+	left:0px; 
+	
+}
+.metodo p, .metodo h2{
+	position: relative;
+	top: 20px;
+}
+.serv img{
+	position: relative;
+	left:80px;
+	width:120px;
+	height:130px;
+}
+.serv{
+	font-size: 10px;
+}
+.bg-green img{
+	width:500px;
+	height:300px;
+}
+.proyectos{
+	font-size: 15px;
+	font-family: "OpenSans-Light";
+}
+.top{
+	position: relative;
+	top:-50px;
+	left: 120px;
+}
+.top1{
+	position: relative;
+	top:-50px;
+	left:70px;
+}
+.equipo1{
+	background-image: url("C:/Users/Johana/Desktop/JohanaVargas/E-Comunidad/img/fotos/equipo2.jpg");
+}
+.equipo2 {
+	background-image: url("C:/Users/Johana/Desktop/JohanaVargas/E-Comunidad/img/fotos/equipo3.jpg");
+}
+.equipo1,.equipo2{
+	height:200px; 
+	width:200px;
+	border-radius: 100%;
+	position: relative;
+	left: 115px;
+	bottom: 15px;
+	background-position: center;
+	background-size: 100%;
+}
+.eq,h3{
+	font-family: "OpenSans-Light";
+}
+h3{
+	font-size: 15px;
+}
+.redes img{
+	width:30px;
+	height:30px;
+	margin-right: 15px;
+}
+.redes {
+	position: relative;
+	left: 90px;
+	top:20px;
+}
+.blog{
+	background-image:url("C:/Users/Johana/Desktop/JohanaVargas/E-Comunidad/img/fondo2.jpg");
+	margin-top: 40px;
+	padding:2%
+}
+.slideicon{
+	position: relative;
+	left: 35px;
+}
+.uno{
+	top:220px;
+}
+.dos{
+	top: 190px;
+	left: 170px;
+}
+.blogimg{
+	width: 350px;
+	height: 200px;
+	position: relative;
+	left: -30px;
+	padding-right: 50px;
+}
+.blg h2{
+	font-size: 18px;
+}
+.blg h3 {
+	font-family: "OpenSans-Regular";
+	font-size: 13px;
+}
+.blg p{
+	font-size: 12px;
+	color: #595959;
+}
+table{
+	border-left:1px solid white;
+	border-top:1px solid white;
+	border-bottom: 1px solid white;
+}
+td{
+	border-right:1px solid white;
+	width: 275px;
+	height: 275px;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+.social-icon{
+	width: 45px;
+	height: 40px;
+	position: relative;
+	top: 100px;
+	left: 210px;
+}
+.social h4{
+	font-family: "OpenSans-Light";
+	font-size:15px;
+	position: relative;
+	bottom: 80px;
+	left: 20px;
+}
+.txtr {
+	position: relative;
+	left: 730px;
+}
+.pd-3{
+	padding: 3%;
+	font-family: "OpenSans-Light";
+	font-size:14px;
+}
+.txtl a{
+	text-decoration: none;
+}
